@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_sort_by_amount"
+        android:title="Sort by Amount"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_sort_by_date"
+        android:title="Sort by Date"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_sort_by_name"
+        android:title="Sort by Name"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_filter_by_date_range"
+        android:title="Filter by Date Range"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_home"
+        android:title="Home"
+        android:icon="@android:drawable/ic_menu_view"
+        android:showAsAction="always" />
+</menu>

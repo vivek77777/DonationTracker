@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:title="Home"
+        android:icon="@android:drawable/ic_menu_view"
+        android:showAsAction="always" />
+    <item
+        android:id="@+id/action_view_history"
+        android:title="View History"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:showAsAction="always" />
+</menu>
